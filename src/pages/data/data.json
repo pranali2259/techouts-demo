@@ -1,0 +1,192 @@
+[
+  {
+    "topic": "Communication Skills",
+    "subTopic": "Effective Communication",
+    "description": "Techniques for clear, concise verbal and written communication."
+  },
+  {
+    "topic": "Communication Skills",
+    "subTopic": "Active Listening",
+    "description": "Enhancing understanding and reducing misunderstandings."
+  },
+  {
+    "topic": "Communication Skills",
+    "subTopic": "Presentation Skills",
+    "description": "Structuring and delivering engaging presentations."
+  },
+  {
+    "topic": "Communication Skills",
+    "subTopic": "Technical Writing",
+    "description": "Writing user manuals, reports, and other technical documents."
+  },
+  {
+    "topic": "Collaboration and Teamwork",
+    "subTopic": "Cross-Functional Collaboration",
+    "description": "Working effectively with teams from different departments."
+  },
+  {
+    "topic": "Collaboration and Teamwork",
+    "subTopic": "Remote Team Dynamics",
+    "description": "Best practices for virtual meetings and asynchronous communication."
+  },
+  {
+    "topic": "Collaboration and Teamwork",
+    "subTopic": "Building Trust in Teams",
+    "description": "Encouraging transparency and dependability in group settings."
+  },
+  {
+    "topic": "Collaboration and Teamwork",
+    "subTopic": "Conflict Resolution",
+    "description": "Strategies to manage and resolve workplace disagreements."
+  },
+  {
+    "topic": "Leadership and Management",
+    "subTopic": "Leading Without Authority",
+    "description": "Influencing peers and stakeholders when not in a managerial role."
+  },
+  {
+    "topic": "Leadership and Management",
+    "subTopic": "Decision-Making",
+    "description": "Using analytical and emotional intelligence to make balanced decisions."
+  },
+  {
+    "topic": "Leadership and Management",
+    "subTopic": "Coaching and Mentoring",
+    "description": "Guiding peers and juniors to achieve their potential."
+  },
+  {
+    "topic": "Leadership and Management",
+    "subTopic": "Change Management",
+    "description": "Navigating and managing transitions in processes or structures."
+  },
+  {
+    "topic": "Emotional Intelligence (EQ)",
+    "subTopic": "Self-Awareness",
+    "description": "Recognizing and managing personal emotions effectively."
+  },
+  {
+    "topic": "Emotional Intelligence (EQ)",
+    "subTopic": "Empathy at Work",
+    "description": "Understanding and valuing others' perspectives."
+  },
+  {
+    "topic": "Emotional Intelligence (EQ)",
+    "subTopic": "Stress and Anger Management",
+    "description": "Maintaining professionalism in high-pressure situations."
+  },
+  {
+    "topic": "Emotional Intelligence (EQ)",
+    "subTopic": "Feedback Handling",
+    "description": "Giving and receiving constructive criticism gracefully."
+  },
+  {
+    "topic": "Time Management and Productivity",
+    "subTopic": "Prioritization Techniques",
+    "description": "Using frameworks like Eisenhower Matrix or Pareto Principle."
+  },
+  {
+    "topic": "Time Management and Productivity",
+    "subTopic": "Procrastination Management",
+    "description": "Overcoming procrastination with practical strategies."
+  },
+  {
+    "topic": "Time Management and Productivity",
+    "subTopic": "Effective Use of Tools",
+    "description": "Leveraging apps like Notion, Trello, or Asana for productivity."
+  },
+  {
+    "topic": "Time Management and Productivity",
+    "subTopic": "Meeting Management",
+    "description": "Conducting and participating in productive meetings."
+  },
+  {
+    "topic": "Adaptability and Problem-Solving",
+    "subTopic": "Critical Thinking",
+    "description": "Breaking down problems logically and finding innovative solutions."
+  },
+  {
+    "topic": "Adaptability and Problem-Solving",
+    "subTopic": "Resilience",
+    "description": "Thriving amidst uncertainty or setbacks."
+  },
+  {
+    "topic": "Adaptability and Problem-Solving",
+    "subTopic": "Decision-Making Under Pressure",
+    "description": "Developing composure and clarity in challenging scenarios."
+  },
+  {
+    "topic": "Adaptability and Problem-Solving",
+    "subTopic": "Creative Problem-Solving",
+    "description": "Encouraging innovative thinking to tackle obstacles."
+  },
+  {
+    "topic": "Interpersonal Skills",
+    "subTopic": "Building Rapport",
+    "description": "Establishing positive relationships with colleagues and clients."
+  },
+  {
+    "topic": "Interpersonal Skills",
+    "subTopic": "Networking Skills",
+    "description": "Building connections within and outside the organization."
+  },
+  {
+    "topic": "Interpersonal Skills",
+    "subTopic": "Dealing with Difficult Personalities",
+    "description": "Strategies for working with challenging individuals."
+  },
+  {
+    "topic": "Interpersonal Skills",
+    "subTopic": "Cultural Sensitivity",
+    "description": "Adapting to diverse workplace environments."
+  },
+  {
+    "topic": "Diversity, Equity, and Inclusion (DEI)",
+    "subTopic": "Unconscious Bias Training",
+    "description": "Recognizing and overcoming inherent biases."
+  },
+  {
+    "topic": "Diversity, Equity, and Inclusion (DEI)",
+    "subTopic": "Inclusive Communication",
+    "description": "Ensuring everyone feels heard and valued."
+  },
+  {
+    "topic": "Diversity, Equity, and Inclusion (DEI)",
+    "subTopic": "Building Respectful Workspaces",
+    "description": "Promoting harmony and mutual respect among team members."
+  },
+  {
+    "topic": "Workplace Etiquette",
+    "subTopic": "Professional Behavior",
+    "description": "Understanding corporate norms and expectations."
+  },
+  {
+    "topic": "Workplace Etiquette",
+    "subTopic": "Email and Virtual Etiquette",
+    "description": "Writing professional emails and participating effectively in virtual spaces."
+  },
+  {
+    "topic": "Workplace Etiquette",
+    "subTopic": "Handling Feedback",
+    "description": "Responding positively to critiques and suggestions."
+  },
+  {
+    "topic": "Personal Development",
+    "subTopic": "Mindfulness and Well-Being",
+    "description": "Practicing mindfulness to enhance focus and reduce stress."
+  },
+  {
+    "topic": "Personal Development",
+    "subTopic": "Confidence Building",
+    "description": "Overcoming self-doubt and projecting self-assurance."
+  },
+  {
+    "topic": "Personal Development",
+    "subTopic": "Self-Motivation",
+    "description": "Setting personal goals and staying driven."
+  },
+  {
+    "topic": "Personal Development",
+    "subTopic": "Work-Life Balance",
+    "description": "Managing professional and personal responsibilities effectively."
+  }
+]

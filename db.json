@@ -1,0 +1,329 @@
+{
+  "data": [
+    {
+      "id": "101",
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "subTopics": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "101",
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "subTopics": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "b95f",
+      "empId": 101,
+      "empName": "sai",
+      "empMailId": "john.doe@example.com",
+      "topicsSelected": [
+        1
+      ]
+    },
+    {
+      "id": "de9a",
+      "empId": 102,
+      "empName": "ssss",
+      "empMailId": "john.doe@example.com",
+      "topicsSelected": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "13de",
+      "empId": 102,
+      "empName": "ssss",
+      "empMailId": "john.doe@example.com",
+      "topicsSelected": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "4432",
+      "empId": 102,
+      "empName": "ssss",
+      "empMailId": "john.doe@example.com",
+      "topicsSelected": [
+        1,
+        2
+      ]
+    }
+  ],
+  "datas": [
+    {
+      "topicId": 1,
+      "topic": "Communication Skills",
+      "subTopic": "Effective Communication",
+      "description": "Techniques for clear, concise verbal and written communication.",
+      "id": "eae5"
+    },
+    {
+      "topicId": 2,
+      "topic": "Communication Skills",
+      "subTopic": "Active Listening",
+      "description": "Enhancing understanding and reducing misunderstandings.",
+      "id": "bb9c"
+    },
+    {
+      "topicId": 3,
+      "topic": "Communication Skills",
+      "subTopic": "Presentation Skills",
+      "description": "Structuring and delivering engaging presentations.",
+      "id": "30e7"
+    },
+    {
+      "topicId": 4,
+      "topic": "Communication Skills",
+      "subTopic": "Technical Writing",
+      "description": "Writing user manuals, reports, and other technical documents.",
+      "id": "5e9a"
+    },
+    {
+      "topicId": 5,
+      "topic": "Collaboration and Teamwork",
+      "subTopic": "Cross-Functional Collaboration",
+      "description": "Working effectively with teams from different departments.",
+      "id": "8ca8"
+    },
+    {
+      "topicId": 6,
+      "topic": "Collaboration and Teamwork",
+      "subTopic": "Remote Team Dynamics",
+      "description": "Best practices for virtual meetings and asynchronous communication.",
+      "id": "db5f"
+    },
+    {
+      "topicId": 7,
+      "topic": "Collaboration and Teamwork",
+      "subTopic": "Building Trust in Teams",
+      "description": "Encouraging transparency and dependability in group settings.",
+      "id": "dd9c"
+    },
+    {
+      "topicId": 8,
+      "topic": "Collaboration and Teamwork",
+      "subTopic": "Conflict Resolution",
+      "description": "Strategies to manage and resolve workplace disagreements.",
+      "id": "d8f9"
+    },
+    {
+      "topicId": 9,
+      "topic": "Leadership and Management",
+      "subTopic": "Leading Without Authority",
+      "description": "Influencing peers and stakeholders when not in a managerial role.",
+      "id": "0a22"
+    },
+    {
+      "topicId": 10,
+      "topic": "Leadership and Management",
+      "subTopic": "Decision-Making",
+      "description": "Using analytical and emotional intelligence to make balanced decisions.",
+      "id": "8042"
+    },
+    {
+      "topicId": 11,
+      "topic": "Leadership and Management",
+      "subTopic": "Coaching and Mentoring",
+      "description": "Guiding peers and juniors to achieve their potential.",
+      "id": "66e9"
+    },
+    {
+      "topicId": 12,
+      "topic": "Leadership and Management",
+      "subTopic": "Change Management",
+      "description": "Navigating and managing transitions in processes or structures.",
+      "id": "05c8"
+    },
+    {
+      "topicId": 13,
+      "topic": "Emotional Intelligence (EQ)",
+      "subTopic": "Self-Awareness",
+      "description": "Recognizing and managing personal emotions effectively.",
+      "id": "b255"
+    },
+    {
+      "topicId": 14,
+      "topic": "Emotional Intelligence (EQ)",
+      "subTopic": "Empathy at Work",
+      "description": "Understanding and valuing others' perspectives.",
+      "id": "059f"
+    },
+    {
+      "topicId": 15,
+      "topic": "Emotional Intelligence (EQ)",
+      "subTopic": "Stress and Anger Management",
+      "description": "Maintaining professionalism in high-pressure situations.",
+      "id": "5565"
+    },
+    {
+      "topicId": 16,
+      "topic": "Emotional Intelligence (EQ)",
+      "subTopic": "Feedback Handling",
+      "description": "Giving and receiving constructive criticism gracefully.",
+      "id": "e80b"
+    },
+    {
+      "topicId": 17,
+      "topic": "Time Management and Productivity",
+      "subTopic": "Prioritization Techniques",
+      "description": "Using frameworks like Eisenhower Matrix or Pareto Principle.",
+      "id": "fa5b"
+    },
+    {
+      "topicId": 18,
+      "topic": "Time Management and Productivity",
+      "subTopic": "Procrastination Management",
+      "description": "Overcoming procrastination with practical strategies.",
+      "id": "4f21"
+    },
+    {
+      "topicId": 19,
+      "topic": "Time Management and Productivity",
+      "subTopic": "Effective Use of Tools",
+      "description": "Leveraging apps like Notion, Trello, or Asana for productivity.",
+      "id": "b659"
+    },
+    {
+      "topicId": 20,
+      "topic": "Time Management and Productivity",
+      "subTopic": "Meeting Management",
+      "description": "Conducting and participating in productive meetings.",
+      "id": "8880"
+    },
+    {
+      "topicId": 21,
+      "topic": "Adaptability and Problem-Solving",
+      "subTopic": "Critical Thinking",
+      "description": "Breaking down problems logically and finding innovative solutions.",
+      "id": "a577"
+    },
+    {
+      "topicId": 22,
+      "topic": "Adaptability and Problem-Solving",
+      "subTopic": "Resilience",
+      "description": "Thriving amidst uncertainty or setbacks.",
+      "id": "c209"
+    },
+    {
+      "topicId": 23,
+      "topic": "Adaptability and Problem-Solving",
+      "subTopic": "Decision-Making Under Pressure",
+      "description": "Developing composure and clarity in challenging scenarios.",
+      "id": "dd7e"
+    },
+    {
+      "topicId": 24,
+      "topic": "Adaptability and Problem-Solving",
+      "subTopic": "Creative Problem-Solving",
+      "description": "Encouraging innovative thinking to tackle obstacles.",
+      "id": "dc28"
+    },
+    {
+      "topicId": 25,
+      "topic": "Interpersonal Skills",
+      "subTopic": "Building Rapport",
+      "description": "Establishing positive relationships with colleagues and clients.",
+      "id": "e259"
+    },
+    {
+      "topicId": 26,
+      "topic": "Interpersonal Skills",
+      "subTopic": "Networking Skills",
+      "description": "Building connections within and outside the organization.",
+      "id": "b6d6"
+    },
+    {
+      "topicId": 27,
+      "topic": "Interpersonal Skills",
+      "subTopic": "Dealing with Difficult Personalities",
+      "description": "Strategies for working with challenging individuals.",
+      "id": "7ae4"
+    },
+    {
+      "topicId": 28,
+      "topic": "Interpersonal Skills",
+      "subTopic": "Cultural Sensitivity",
+      "description": "Adapting to diverse workplace environments.",
+      "id": "a777"
+    },
+    {
+      "topicId": 29,
+      "topic": "Diversity, Equity, and Inclusion (DEI)",
+      "subTopic": "Unconscious Bias Training",
+      "description": "Recognizing and overcoming inherent biases.",
+      "id": "3acd"
+    },
+    {
+      "topicId": 30,
+      "topic": "Diversity, Equity, and Inclusion (DEI)",
+      "subTopic": "Inclusive Communication",
+      "description": "Ensuring everyone feels heard and valued.",
+      "id": "a49b"
+    },
+    {
+      "topicId": 31,
+      "topic": "Diversity, Equity, and Inclusion (DEI)",
+      "subTopic": "Building Respectful Workspaces",
+      "description": "Promoting harmony and mutual respect among team members.",
+      "id": "146d"
+    },
+    {
+      "topicId": 32,
+      "topic": "Workplace Etiquette",
+      "subTopic": "Professional Behavior",
+      "description": "Understanding corporate norms and expectations.",
+      "id": "80bd"
+    },
+    {
+      "topicId": 33,
+      "topic": "Workplace Etiquette",
+      "subTopic": "Email and Virtual Etiquette",
+      "description": "Writing professional emails and participating effectively in virtual spaces.",
+      "id": "51ce"
+    },
+    {
+      "topicId": 34,
+      "topic": "Workplace Etiquette",
+      "subTopic": "Handling Feedback",
+      "description": "Responding positively to critiques and suggestions.",
+      "id": "77f2"
+    },
+    {
+      "topicId": 35,
+      "topic": "Personal Development",
+      "subTopic": "Mindfulness and Well-Being",
+      "description": "Practicing mindfulness to enhance focus and reduce stress.",
+      "id": "e503"
+    },
+    {
+      "topicId": 36,
+      "topic": "Personal Development",
+      "subTopic": "Confidence Building",
+      "description": "Overcoming self-doubt and projecting self-assurance.",
+      "id": "c7f0"
+    },
+    {
+      "topicId": 37,
+      "topic": "Personal Development",
+      "subTopic": "Self-Motivation",
+      "description": "Setting personal goals and staying driven.",
+      "id": "50c4"
+    },
+    {
+      "topicId": 38,
+      "topic": "Personal Development",
+      "subTopic": "Work-Life Balance",
+      "description": "Managing professional and personal responsibilities effectively.",
+      "id": "1967"
+    }
+  ]
+}
